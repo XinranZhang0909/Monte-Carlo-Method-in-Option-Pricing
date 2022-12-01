@@ -1,1 +1,1 @@
-# Monte-Carlo-Method-in-Option-Pricing
+Regarding European and Asian call option pricing, explored methods of variance reduction (antithetic variables, importance sampling, control variates) and generated random paths (Milstein and Euler), compared performance of Monte Carlo method and Crank-Nicolson scheme in Finite Difference method
